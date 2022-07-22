@@ -1,7 +1,7 @@
 ## Hello world! :fox_face:✨
-### My name is Anastasiia and I'm a junior fullstack web developer & web designer based in Annecy, France :mountain_snow:
+### My name is Anastasiia and I'm a junior fullstack Web Developer & Web Designer based in the very heart of the French Alps :mountain_snow:
 
-#### What do I love doing:
+#### What I love doing:
 - :computer: Coding
 - :mountain: Hiking
 - :world_map: Travelling
@@ -17,7 +17,7 @@
 - :sunglasses: [My web dev portfolio](https://anastasiiaa.promo-105.codeur.online/portfolio/)
 - :blossom: [Behance portfolio](https://www.behance.net/anastasaleksee8)
 
-### Thank you for your visit, have a great day! :four_leaf_clover:
+### Thank you for your visit and have a great day! :four_leaf_clover:
 
 <!--
 **anastasiiaal/anastasiiaal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
