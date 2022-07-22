@@ -1,5 +1,7 @@
-### Hello world! :fox_face:✨
-#### My name is Anastasiia and I'm a junior fullstack web developer & web designer based in Annecy, France :mountain_snow:
+<img src="header.jpg" width="100%" alt="header image" />
+
+## Hello world! :fox_face:✨
+### My name is Anastasiia and I'm a junior fullstack web developer & web designer based in Annecy, France :mountain_snow:
 
 
 <!--
