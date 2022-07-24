@@ -1,21 +1,21 @@
 ## Hello world! :fox_face:✨
-### My name is Anastasiia and I'm a junior fullstack Web Developer & Web Designer based in the very heart of the French Alps :mountain_snow:
+### My name is Anastasiia and I'm a Junior Fullstack Web Developer & Web Designer based in the very heart of the French Alps :mountain_snow:
 #
 #### What I love doing:
 - :computer: Coding
-- :mountain: Hiking
+- :mountain: Mountain hiking
 - :world_map: Travelling
-- :nerd_face: Studying
+- :nerd_face: Learning new things
 - :biking_woman: Sports
 #
 #### Check out my latest projects :
-- :cinema: [MovieDB API project](https://anastasiiaa.promo-105.codeur.online/projects/WhatTheFilm)
-- :cake: [Dessert blog](https://anastasiiaa.promo-105.codeur.online/projects/Dessert-Recipe-blog/)
-- :grey_question: [Quiz Game](https://quizrae.promo-105.codeur.online/)
+- :cinema: [**WhatTheFilm**](https://anastasiiaa.promo-105.codeur.online/projects/WhatTheFilm) - MovieDB API project
+- :cake: [**Home Chef**](https://anastasiiaa.promo-105.codeur.online/projects/Dessert-Recipe-blog/) - Dessert recipe blog
+- :grey_question: [**Quizzdom**](https://quizrae.promo-105.codeur.online/) - Quiz Game
 #
-#### Find me on
-- :sunglasses: [My web dev portfolio](https://anastasiiaa.promo-105.codeur.online/portfolio/)
-- :blossom: [Behance portfolio](https://www.behance.net/anastasaleksee8)
+#### Find me on:
+- :sunglasses: [My **Web Dev** portfolio](https://anastasiiaa.promo-105.codeur.online/portfolio/)
+- :blossom: [**Behance** portfolio](https://www.behance.net/anastasaleksee8)
 #
 ### Thank you for your visit and have a great day! :four_leaf_clover:
 
