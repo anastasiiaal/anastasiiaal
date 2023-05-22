@@ -15,6 +15,7 @@
 
 #### And some coding challenges:
 - 🌍 [**REST Countries API**](https://shimmering-elf-4335fd.netlify.app/) → [code](https://github.com/anastasiiaal/countries-api-react)
+- 🥦 [**Body Mass Index Calculator**](https://bmi-calculator-dusky.vercel.app/) → [code](https://github.com/anastasiiaal/bmi-calculator)
 - 💵 [**Tip Calculator App**](https://anastasiiaal.github.io/tip-calculator-app/) → [code](https://github.com/anastasiiaal/tip-calculator-app)
 #
 #### Find me on:
