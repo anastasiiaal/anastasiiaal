@@ -1,17 +1,17 @@
-## Hello world! 🦊✨
+## Hello, World! 🦊✨
 ### My name is Anastasiia and I'm a Junior Full-Stack Web Developer based in the very heart of the French Alps 🏔️ 
 #
 #### What I love doing:
 - 💻 Coding
 - 🏔️ Mountain hiking
 - 🗺️ Travelling
-- 🤓 Learning new things
+- 👩🏻‍🎓 Learning new things
 - 🚵‍♀️ Sports
 #
 #### Check out my latest projects:
+- 🗓️ [**AnimaLife**](https://animalife.ovh/) - Veterinary appointment scheduling platform → [code](https://github.com/anastasiiaal/animalife_project)
 - 🎞️ [**WhatTheFilm**](https://www.anastasiia.pro/projects/WhatTheFilm/) - MovieDB API project → [code](https://github.com/anastasiiaal/WhatTheFilm)
 - 🧁 [**Home Chef**](https://www.anastasiia.pro/projects/home-chef/) - Dessert recipe blog → [code](https://github.com/anastasiiaal/Dessert-Recipe-blog)
-- 💭 [**Quizzdom**](https://quizrae.promo-105.codeur.online/) - Quiz Game → [code](https://github.com/Renaudjean/Quiz-Project-Groupe3)
 
 #### And some coding challenges:
 - 🌍 [**REST Countries API**](https://shimmering-elf-4335fd.netlify.app/) → [code](https://github.com/anastasiiaal/countries-api-react)
